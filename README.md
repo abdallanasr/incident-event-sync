@@ -30,6 +30,7 @@ ITI-Bash/
 Contains incident numbers and their status.
 
 Example:
+
 INC0000401356 closed  
 INC0000401357 opened  
 
@@ -39,6 +40,7 @@ INC0000401357 opened
 Maps incident numbers to event IDs.
 
 Example:
+
 INC0000401356 6192fd9a-9b03-71ec-01b9-0a4e23470001  
 
 ---
@@ -47,6 +49,7 @@ INC0000401356 6192fd9a-9b03-71ec-01b9-0a4e23470001
 Contains event IDs and their current state.
 
 Example:
+
 6192fd9a-9b03-71ec-01b9-0a4e23470001 opened  
 
 ---
